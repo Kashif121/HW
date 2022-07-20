@@ -1,0 +1,21 @@
+            This program intends to calculate the distance traveled per hour of travel using various 
+forms of transportations. The most important formula in this program is the distance= speed multiplied
+by time. Each of these calculations will be printed to an output text file named by the specific vehicle used. 
+As an example for the Car calculations, the output was printed to Car.txt.  The purpose of the main method is to unite all 
+of other methods in the program and act as meeting ground for all of them.Standard variables are declared such as one for 
+the vehicle, speed, time, and distance. Then we will utlize the while(sc.hasNext) to read in from an input file that has 6 
+types of vehicles, with a speed and time for each. Then in this while loop the saveasFile method is invoked as we will 
+need to invoke the distance method within it. The choice to return a String could be deemed peculiar for the distance method, 
+however, it allowed the most flexibility and easy in formatting the output how it was intended to be printed. In addition, it 
+allowed the program to combine steps and return a statement saying various inputs were invalid, such as if time or speed was negative. 
+In this method I declared distance and intialized it to 0, considering we were going to use it in the for loop later on. Then I declared
+and initalized four string variables, firstLine, dashedLine, hourToString, and distanceToString to empty string. I assigned the value 
+of the title of the data to be the firstLine variable, and then had the dashline be the second line to separate the title and the data 
+in the output file. Then the for loop was used so that the distance could be calculated at every hour of the journey based on the speed 
+given in the input text file. The method returned the String that encapsulated the title, dashed line, and the data. However, if invalid 
+inputs were given, a string that explained that invalid inputs were given, was returned. 
+           Lastly in the saveAsFile method, we must declare an object of the PrintStream class, but also we are going to pass through the 
+vehicle name for each input from the while loop in the main so that, each vehicle can have their own respective output text file. Following
+this we are going to print the data provided in the distance method, so we are going to invoke it within the saveAsFile. Then the next step 
+is to finally invoke the saveAsFile method in the main method, where all the requirements of the program will be met. This program compiles 
+perfectly and runs well. 
