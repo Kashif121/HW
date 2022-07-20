@@ -1,0 +1,6 @@
+Bus 50 6
+Train 20 3
+Car 35 7
+F1 270 1
+Motorcycle 10 4
+Truck 45 8
