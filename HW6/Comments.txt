@@ -1,0 +1,19 @@
+This program intends to print out the month and the year according to the input that the user gives via the keyboard. The most important 
+part of this code is to make sure when there is a leap year and return 29 days for February in those months. This output will be printed
+out via a display method that will be an object of the MonthDays class. The purpose of the main public class is to unite all 
+of other classes in the program and act as meeting ground for all of them in the main method.Standard variables are declared such as one for 
+the year, month, day, and the monthName. Then we will instantiate an object of the scanner class to the System.in which is from the keyboard. 
+Then we will assign the value of the next int given by the user to the variable of month. After this we will assign the next value of the next 
+int given by the user to the variable of year. Next, we will create a month object from the month class and we will assign the month object 
+while passing through the month and the year to the monthName variable. Then we will create another object of the MonthDays class while passing
+through the month and the year. And then lastly we will create a third object of the MonthDays class so that we can create a display method that 
+will express the whole output.  
+	In the constructs of the classes try and catch were used so that the input given from the user is refined and accurate. The public Month class constructor recieves the String of the monthName and pairs it with the corresponding number. Then the startMonthNumber method is making sure that the 
+month number is withing a certain number standard. The getMonthNumber method returns the monthNumber, the getMonthName method pairs a month name with 
+corresponding number used in the main method. The monthNumberString returned the month name, and the equivalent method checks if the month numbers match
+up. With the MonthDays class, inheritence from the Month class was used. Several fields were used such as year, days Numb, and Month Numb. The constructor
+for the class was assigning the month number and the year. Then the getNumberOfDays method receives the month Number and returns the right number of days 
+for each corresponding month. However, for the month of February if the year is disvisble by 100 and 400 it is a leap year so there are 29 days in the month. Next if the year is not divisible by 100 and the year is divisble by 4, there are 29 days in the month. January, March, and May have 31 days 
+so that will be returned for those month numbers, then in July, August, October, and December, 31 days will be returned. Then we will have the display 
+method in the class that simply prints the monthName, year, and the day. TheExcept class is invoke in other methods to ensure that the input is correct
+and not invalid. This program compiles perfectly and runs well. 
