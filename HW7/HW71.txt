@@ -1,0 +1,275 @@
+Input a name of specific car model
+Honda Pilot 
+
+Input a year for Honda Pilot 
+2016
+
+2016 Honda Pilot 
+-----------------------
+Fueling vehicle....
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+11.0
+12.0
+13.0
+14.0
+15.0
+
+Accelerating
+5
+5 miles
+The current fuel level is : 15.0 gallons
+
+10
+10 miles
+The current fuel level is : 15.0 gallons
+
+15
+15 miles
+The current fuel level is : 15.0 gallons
+
+20
+20 miles
+The current fuel level is : 15.0 gallons
+
+25
+25 miles
+The current fuel level is : 13.365206135374601 gallons
+
+30
+30 miles
+The current fuel level is : 13.365206135374601 gallons
+
+
+Decelerating
+25
+35 miles
+The current fuel level is : 13.365206135374601 gallons
+
+20
+40 miles
+The current fuel level is : 13.365206135374601 gallons
+
+15
+45 miles
+The current fuel level is : 13.365206135374601 gallons
+
+10
+50 miles
+The current fuel level is : 11.946115073253011 gallons
+
+5
+55 miles
+The current fuel level is : 11.946115073253011 gallons
+
+0
+60 miles
+The current fuel level is : 11.946115073253011 gallons
+
+
+Accelerating
+5
+65 miles
+The current fuel level is : 11.946115073253011 gallons
+
+10
+70 miles
+The current fuel level is : 11.946115073253011 gallons
+
+15
+75 miles
+The current fuel level is : 10.608625289014574 gallons
+
+20
+80 miles
+The current fuel level is : 10.608625289014574 gallons
+
+25
+85 miles
+The current fuel level is : 10.608625289014574 gallons
+
+30
+90 miles
+The current fuel level is : 10.608625289014574 gallons
+
+
+Decelerating
+25
+95 miles
+The current fuel level is : 10.608625289014574 gallons
+
+20
+100 miles
+The current fuel level is : 9.242640172504919 gallons
+
+15
+105 miles
+The current fuel level is : 9.242640172504919 gallons
+
+10
+110 miles
+The current fuel level is : 9.242640172504919 gallons
+
+5
+115 miles
+The current fuel level is : 9.242640172504919 gallons
+
+0
+120 miles
+The current fuel level is : 8.009231560686096 gallons
+
+
+Accelerating
+5
+125 miles
+The current fuel level is : 8.009231560686096 gallons
+
+10
+130 miles
+The current fuel level is : 8.009231560686096 gallons
+
+15
+135 miles
+The current fuel level is : 8.009231560686096 gallons
+
+20
+140 miles
+The current fuel level is : 8.009231560686096 gallons
+
+25
+145 miles
+The current fuel level is : 6.957622101379452 gallons
+
+30
+150 miles
+The current fuel level is : 6.957622101379452 gallons
+
+
+Decelerating
+25
+155 miles
+The current fuel level is : 6.957622101379452 gallons
+
+20
+160 miles
+The current fuel level is : 6.957622101379452 gallons
+
+15
+165 miles
+The current fuel level is : 6.957622101379452 gallons
+
+10
+170 miles
+The current fuel level is : 5.730440164973327 gallons
+
+5
+175 miles
+The current fuel level is : 5.730440164973327 gallons
+
+0
+180 miles
+The current fuel level is : 5.730440164973327 gallons
+
+
+Accelerating
+5
+185 miles
+The current fuel level is : 5.730440164973327 gallons
+
+10
+190 miles
+The current fuel level is : 5.730440164973327 gallons
+
+15
+195 miles
+The current fuel level is : 4.132796282403984 gallons
+
+20
+200 miles
+The current fuel level is : 4.132796282403984 gallons
+
+25
+205 miles
+The current fuel level is : 4.132796282403984 gallons
+
+30
+210 miles
+The current fuel level is : 4.132796282403984 gallons
+
+
+Decelerating
+25
+215 miles
+The current fuel level is : 4.132796282403984 gallons
+
+20
+220 miles
+The current fuel level is : 2.752683132356994 gallons
+
+15
+225 miles
+The current fuel level is : 2.752683132356994 gallons
+
+10
+230 miles
+The current fuel level is : 2.752683132356994 gallons
+
+5
+235 miles
+The current fuel level is : 2.752683132356994 gallons
+
+0
+240 miles
+The current fuel level is : 1.3366327654484067 gallons
+
+
+Accelerating
+5
+245 miles
+The current fuel level is : 1.3366327654484067 gallons
+
+10
+250 miles
+The current fuel level is : 1.3366327654484067 gallons
+
+15
+255 miles
+The current fuel level is : 1.3366327654484067 gallons
+
+20
+260 miles
+The current fuel level is : 1.3366327654484067 gallons
+
+25
+265 miles
+The current fuel level is : 0.22980907174928156 gallons
+
+30
+270 miles
+The current fuel level is : 0.22980907174928156 gallons
+
+
+Decelerating
+25
+275 miles
+The current fuel level is : 0.22980907174928156 gallons
+
+20
+280 miles
+The current fuel level is : 0.22980907174928156 gallons
+
+15
+285 miles
+The current fuel level is : 0.22980907174928156 gallons
+
+10
+290 miles
+The current fuel level is : 0.0 gallons
