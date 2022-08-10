@@ -1,0 +1,16 @@
+run:
+Input a new set of numbers and operators. Make sure to put a space between operator and number.
+10 + 21
+10.0 + 21.0 = 31.0
+Input a new set of numbers and operators. Make sure to put a space between operator and number.
+25 - 3
+25.0 - 3.0 =  22.0
+Input a new set of numbers and operators. Make sure to put a space between operator and number.
+9 * 8 
+9.0 * 8.0 = 72.0
+Input a new set of numbers and operators. Make sure to put a space between operator and number.
+9 / 3 
+9.0 / 3.0 = 3.0
+Input a new set of numbers and operators. Make sure to put a space between operator and number.
+0 + 2
+BUILD SUCCESSFUL (total time: 29 seconds)
